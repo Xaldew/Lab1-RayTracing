@@ -1,4 +1,4 @@
-# EDAN35 Lab 1 - Whitted Ray Tracing
+# EDAN35 Lab 1 - Whitted Ray Tracing - Test 1
 
 Lab1-RayTracing contains the source code for the first assignment of the
 Computer Graphics course [EDAN35][] taught at [Lund University][LU].
